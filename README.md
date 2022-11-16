@@ -1,0 +1,2 @@
+Hi, this is Nafis Badalova. I am a QA Engineer, who likes to comunicate with interesting people and explore new features in testing sphere. 
+This repo represents my skillsets in test documentation, MongoDB and Postman. 
